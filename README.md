@@ -1,4 +1,4 @@
-# Clase
+# Como usar Git-Bash
 
   -1 crear una carpeta
   
