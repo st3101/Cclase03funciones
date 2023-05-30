@@ -1,5 +1,4 @@
-# Cclase03funciones
-Programación en C ,Clase 03  funciones
+# Clase
 
   -1 crear una carpeta
   
